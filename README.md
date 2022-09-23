@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
  lines (26 sloc)  3.1 KB
 
-## Olá sou a Suélen Dias Palhares, sou desenvolvedora Full Stack em formação!
+## Olá sou a Suélen Dias Palhares!
+Atuo na área de Tecnologia há 18 anos, acumulei experiências como: Analista de Sistemas, Analista de Negócios TOTVS, Gerente de Projetos PMBOK por 6 anos, Scrum Master e Product Owner por 2 anos, e nesse período me apaixonei pela área de Desenvolvimento de Software e decidi me tornar uma Desenvolvedora Web, por isso estou em transição de carreira migrando da Gestão para Programação, estudando continuamente, para conquistar uma oportunidade de atuar como Desenvolvedora Web!
 <div align="center">
   <a href="https://github.com/suelendp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suelendp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -28,8 +29,18 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Suelen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Suelen-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Suelen-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1022849555336798213/1022849743765897216/gif_Suelen.png">
  </div>
  
+ ##
+ 
+ <div><br> 
+  <a href="https://www.linkedin.com/in/suelen-dias-palhares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
  ![Snake animation](https://github.com/suelendp/suelendp/blob/output/github-contribution-grid-snake.svg)
+   
+</div>
+ 
   
-  ##
+ 
